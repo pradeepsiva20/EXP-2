@@ -1,7 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
 # Name: PRADEEP S
 # Reg no: 212222100034
-# Date:30/05/2025
+# Date:
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
